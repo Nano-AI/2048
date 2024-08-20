@@ -63,4 +63,3 @@ class Grid:
     def print(self):
         for row in self.grid:
             print(row)
-
